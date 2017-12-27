@@ -1,0 +1,12 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.4",
+    "twit": "^2.2.9"
+  }
+}
